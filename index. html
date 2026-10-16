@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale>
+<title>MAMA SALAMA AI</title>
+<style>
+body{background:#fff0f5;font-family:arial;padding:10px}
+.box{max-width:500px;margin:auto;background:white;padding:15px;border-radius:15px;box-shafow:0 2px 10px #ccc}
+hl{color:#d81b60;text-align:center}
+#chat{height:350px;overflow-y:auto;border:1px solid #ddd;padding:10px;border-radius:10px;background:#fafafa}
+.user{text-align:right;background:#fce4ec;padding:8px;margin:5px;border-radius:10px}
+.bot{background:#f3e5f5;padding:8px;margin:5px;border-radius:10px}
+input{width:68%;padding:12px;border-radius:20px;border:1px solid #ccc}
+button{width:28%;padding:12px;border-radius:20px;background:#81b60;color:white;border:0;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="box">
+<hl> MAMA SALAMA AI </hl>
+<p style="text-align:center">Mshauri wa Mama Mjamzito</p>
+<div id="
+<div style="
+<input id="
+<button onclick="s
+</div>
+</div>
+<script>
+function s()}
+let
+let
+let
+if
+if
+if
+c.innerHTML+=`<div class=bot>${r}</div>`;i.value=""
+}
+</script>
+</body>
+</htlm>
